@@ -1,0 +1,28 @@
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.swp
+
+# Editors
+.vscode
+.idea
+*.iml
+
+# misc
+Thumbs.db
+.DS_Store
+
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+/build
+/lib
+/dist
+/es
+/coverage
